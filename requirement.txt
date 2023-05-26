@@ -1,0 +1,6 @@
+pip install transformers sentencepiece sacremoses
+pip install transformers==4.29.2
+pip install sentencepiece==0.1.99
+pip install protobuf==3.20.0
+pip install torch torchvision torchaudio
+pip install --upgrade transformers
